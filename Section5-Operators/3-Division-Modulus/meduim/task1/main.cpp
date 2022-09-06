@@ -1,3 +1,12 @@
+/*Problem #1: Is even?
+● The following code reads an integer and computes
+a boolean if the number is even in 3 different ways.
+● Fill in the is_even to solve the problem in 3 ways as
+following
+● Using only %2
+● Using only /2
+● Using only %10
+*/
 #include <iostream>
 
 using namespace std;
